@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Dev Kansara! 👋 I am a Computer Science undergraduate at Ahmedabad University with a passion for building systems from the logic gate up to the cloud. I enjoy bridging the gap between hardware constraints and AI intelligence.<br><br>🔭 Currently working on: Distributed systems and Blockchain applications.<br><br>🌱 Learning: Big Data Analytics and Network Science.<br><br>🛠 Tech Stack: Python, Java, React, Verilog HDL, Docker.<br><br>⚡ Fun fact: Built a custom 25-bit RISC processor from scratch in Verilog.
+Hi, I'm Dev Kansara! 👋 I am a Computer Science undergraduate at Ahmedabad University with a passion for building systems from the logic gate up to the cloud. I enjoy bridging the gap between hardware constraints and AI intelligence.<br><br>🔭 Currently working on: Decentralized systems and Blockchain applications.<br><br>🌱 Learning: Big Data Analytics and Network Science.<br>
 
 
 ## 🌐 Socials:
