@@ -1,12 +1,54 @@
 # 💫 About Me:
-Hi, I'm Dev Kansara! 👋 I am a Computer Science undergraduate at Ahmedabad University with a passion for building systems from the logic gate up to the cloud. I enjoy bridging the gap between hardware constraints and AI intelligence.<br><br>🔭 Currently working on: Decentralized systems and Blockchain applications.<br><br>🌱 Learning: Big Data Analytics and Network Science.<br>
+Hi, I'm Dev Kansara! 👋 I'm a Computer Science undergraduate at Ahmedabad University with a passion for building systems from the logic gate up to the cloud. I enjoy bridging the gap between hardware and software, and I'm enthusiastic about blockchain, machine learning, and full-stack development.
 
+## 🎯 Current Focus:
+- 🔗 **Blockchain & Web3** - Smart contracts, tokenization, and decentralized applications
+- 🤖 **Machine Learning & AI** - Data analysis, algorithms, and AI-driven solutions
+- 💻 **Full-Stack Development** - Building scalable applications with modern tech stacks
+- 🏗️ **System Design** - From processor architecture to cloud infrastructure
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devkansara10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devkansara97) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.k1@ahduni.edu.in) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devkansara10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devkansara) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DevKansara97)
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-%23DC143C.svg?style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## 🚀 Featured Projects:
+
+### Blockchain & Web3
+- **[Blockchain-Based Real-World Asset Tokenization](https://github.com/DevKansara97/Design-and-Implementation-of-a-Blockchain-Based-Real-World-Asset-Tokenization-System-Using-Ethereum-)** - DApp for tokenizing real-world assets using Ethereum smart contracts (Solidity, JavaScript)
+- **[Avengers Command Center Portal](https://github.com/DevKansara97/avengers-command-center-portal)** - TypeScript-based application
+
+### Full-Stack Development
+- **[Connect Deliver](https://github.com/DevKansara97/connect-deliver)** - Delivery platform built with TypeScript
+- **[DevKansara Portfolio](https://github.com/DevKansara97/DevKansara_Portfolio)** - Personal portfolio showcasing my work (TypeScript)
+- **[Urjit AI Nexus](https://github.com/DevKansara97/urjit-ai-nexus)** - AI-powered application
+
+### Machine Learning & Data Science
+- **[BigData Analytics - Multiple Linear Regression](https://github.com/DevKansara97/BigData-Analytics-Multiple-Linear-Regression)** - ML fundamentals and data analysis
+- **[Linear Regression Analysis: Head Size vs Brain Weight](https://github.com/DevKansara97/Linear-Regression-Analysis-Head-Size-vs.-Brain-Weight)** - Statistical analysis with scikit-learn
+- **[Randomized Route Optimization](https://github.com/DevKansara97/Randomized-Route-Optimization-in-Decentralized-Traffic-Networks)** - A* algorithm for traffic routing (CSE400)
+- **[Artificial Intelligence](https://github.com/DevKansara97/CSE518_Artificial_Intelligence)** - AI coursework and experiments
+
+### Computer Science Core
+- **[Data Structures - Java](https://github.com/DevKansara97/Data_Structures_Java)** - Comprehensive data structures implementations (CSE205)
+- **[Design and Analysis of Algorithms](https://github.com/DevKansara97/Design-and-Analysis-of-Algorithms)** - Sorting, dynamic programming, graph algorithms, and more
+- **[Computer Networks - CSE405](https://github.com/DevKansara97/Computer-Networks-CSE405)** - Network protocols and lab experiments (C)
+- **[Five-Stage Non-Pipelined RISC Processor](https://github.com/DevKansara97/Five-cycle-non-pipelined-RISC-processor-using-Verilog-HDL)** - 25-bit RISC processor in Verilog HDL
+
+### Other Projects
+- **[QR Code Generator](https://github.com/DevKansara97/QR-code-generator)** - HTML-based utility
+- **[Software Engineering Project](https://github.com/DevKansara97/SoftwareEngineering_Project)** - Course project
+- **[WMC2025 Programming Club](https://github.com/DevKansara97/WMC2025_ProgrammingClub)** - Community initiative
+
+## 🎓 Areas of Interest:
+- Blockchain Technology & Cryptography
+- Machine Learning & Data Science
+- System Architecture & Design
+- Full-Stack Web Development
+- Hardware Design (Verilog, Digital Systems)
+- Algorithms & Optimization
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DevKansara97&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DevKansara97&theme=dark&hide_border=false)<br/>
@@ -15,4 +57,4 @@ Hi, I'm Dev Kansara! 👋 I am a Computer Science undergraduate at Ahmedabad Uni
 ---
 [![](https://visitcount.itsvg.in/api?id=DevKansara97&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with enhanced content -->
