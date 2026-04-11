@@ -17,18 +17,17 @@ Hi, I'm Dev Kansara! 👋 I'm a Computer Science undergraduate at Ahmedabad Univ
 
 ### Blockchain & Web3
 - **[Blockchain-Based Real-World Asset Tokenization](https://github.com/DevKansara97/Design-and-Implementation-of-a-Blockchain-Based-Real-World-Asset-Tokenization-System-Using-Ethereum-)** - DApp for tokenizing real-world assets using Ethereum smart contracts (Solidity, JavaScript)
-- **[Avengers Command Center Portal](https://github.com/DevKansara97/avengers-command-center-portal)** - TypeScript-based application
-
+  
 ### Full-Stack Development
-- **[Connect Deliver](https://github.com/DevKansara97/connect-deliver)** - Delivery platform built with TypeScript
+- **[Software Engineering Project](https://github.com/DevKansara97/SoftwareEngineering_Project)** - Course project
 - **[DevKansara Portfolio](https://github.com/DevKansara97/DevKansara_Portfolio)** - Personal portfolio showcasing my work (TypeScript)
 - **[Urjit AI Nexus](https://github.com/DevKansara97/urjit-ai-nexus)** - AI-powered application
 
 ### Machine Learning & Data Science
 - **[BigData Analytics - Multiple Linear Regression](https://github.com/DevKansara97/BigData-Analytics-Multiple-Linear-Regression)** - ML fundamentals and data analysis
-- **[Linear Regression Analysis: Head Size vs Brain Weight](https://github.com/DevKansara97/Linear-Regression-Analysis-Head-Size-vs.-Brain-Weight)** - Statistical analysis with scikit-learn
 - **[Randomized Route Optimization](https://github.com/DevKansara97/Randomized-Route-Optimization-in-Decentralized-Traffic-Networks)** - A* algorithm for traffic routing (CSE400)
 - **[Artificial Intelligence](https://github.com/DevKansara97/CSE518_Artificial_Intelligence)** - AI coursework and experiments
+- **[Linear Regression Analysis: Head Size vs Brain Weight](https://github.com/DevKansara97/Linear-Regression-Analysis-Head-Size-vs.-Brain-Weight)** - Statistical analysis with scikit-learn
 
 ### Computer Science Core
 - **[Data Structures - Java](https://github.com/DevKansara97/Data_Structures_Java)** - Comprehensive data structures implementations (CSE205)
@@ -36,18 +35,17 @@ Hi, I'm Dev Kansara! 👋 I'm a Computer Science undergraduate at Ahmedabad Univ
 - **[Computer Networks - CSE405](https://github.com/DevKansara97/Computer-Networks-CSE405)** - Network protocols and lab experiments (C)
 - **[Five-Stage Non-Pipelined RISC Processor](https://github.com/DevKansara97/Five-cycle-non-pipelined-RISC-processor-using-Verilog-HDL)** - 25-bit RISC processor in Verilog HDL
 
-### Other Projects
+### Other Practice Projects
 - **[QR Code Generator](https://github.com/DevKansara97/QR-code-generator)** - HTML-based utility
-- **[Software Engineering Project](https://github.com/DevKansara97/SoftwareEngineering_Project)** - Course project
 - **[WMC2025 Programming Club](https://github.com/DevKansara97/WMC2025_ProgrammingClub)** - Community initiative
 
 ## 🎓 Areas of Interest:
-- Blockchain Technology & Cryptography
+- Network Science
+- Data Structures and Algorithms
 - Machine Learning & Data Science
 - System Architecture & Design
 - Full-Stack Web Development
 - Hardware Design (Verilog, Digital Systems)
-- Algorithms & Optimization
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DevKansara97&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
