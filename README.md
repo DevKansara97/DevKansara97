@@ -24,7 +24,7 @@ Hi, I'm Dev Kansara! 👋 I'm a Computer Science undergraduate at Ahmedabad Univ
 - **[Urjit AI Nexus](https://github.com/DevKansara97/urjit-ai-nexus)** - AI-powered application
 
 ### Machine Learning & Data Science
-- **[BigData Analytics - Multiple Linear Regression](https://github.com/DevKansara97/BigData-Analytics-Multiple-Linear-Regression)** - ML fundamentals and data analysis
+- **[BigData Analytics - Multiple Linear Regression]([https://github.com/DevKansara97/BigData-Analytics-Multiple-Linear-Regression](https://github.com/DevKansara97/CSE521-Big-Data-Analytics-course-work/tree/main/BDA%20Project))** - ML fundamentals and data analysis
 - **[Randomized Route Optimization](https://github.com/DevKansara97/Randomized-Route-Optimization-in-Decentralized-Traffic-Networks)** - A* algorithm for traffic routing (CSE400)
 - **[Artificial Intelligence](https://github.com/DevKansara97/CSE518_Artificial_Intelligence)** - AI coursework and experiments
 - **[Linear Regression Analysis: Head Size vs Brain Weight](https://github.com/DevKansara97/Linear-Regression-Analysis-Head-Size-vs.-Brain-Weight)** - Statistical analysis with scikit-learn
