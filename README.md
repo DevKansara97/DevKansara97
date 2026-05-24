@@ -20,7 +20,7 @@ Hi, I'm Dev Kansara! 👋 I'm a Computer Science undergraduate at Ahmedabad Univ
   
 ### Full-Stack Development
 - **[Software Engineering Project](https://github.com/DevKansara97/SoftwareEngineering_Project)** - Course project
-- **[DevKansara Portfolio](https://github.com/DevKansara97/DevKansara_Portfolio)** - Personal portfolio showcasing my work (TypeScript)
+- **[DevKansara Portfolio](https://dev-kansara.web.app)** - Personal portfolio showcasing my work (TypeScript)
 - **[Urjit AI Nexus](https://github.com/DevKansara97/urjit-ai-nexus)** - AI-powered application
 
 ### Machine Learning & Data Science
