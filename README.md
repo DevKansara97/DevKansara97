@@ -1,13 +1,7 @@
 # 💫 About Me:
 Hi, I'm Dev Kansara! 👋   
 I'm a Computer Science undergraduate at Ahmedabad University who enjoys **Learning**!  
-My primary interests lie in Systems, AI/ML, LLM Engineering, and Data Science. I enjoy working on problems that require a combination of mathematical reasoning, software engineering, and practical experimentation. I also enjoy teaching, mentoring, competitive programming, and academic research.
-
-## 🎯 Current Focus:
-- 🤖 **Machine Learning & AI** - Data analysis, algorithms, and AI-driven solutions
-- 🏗️ **System Design** - From processor architecture to cloud infrastructure
-- 🔗 **Blockchain & Web3** - Smart contracts, tokenization, and decentralized applications
-- 💻 **Full-Stack Development** - Building scalable applications with modern tech stacks
+My primary interests lie in Systems, AI/ML, LLM Engineering, and Data Science. I enjoy working on problems that require a combination of mathematical reasoning, software engineering, and practical experimentation. I also enjoy teaching and academic research.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devkansara10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devkansara97) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DevKansara97)
@@ -17,44 +11,33 @@ My primary interests lie in Systems, AI/ML, LLM Engineering, and Data Science. I
 
 ## 🚀 Featured Projects:
 
-### Machine Learning & Data Science
-- **[BigData Analytics - Multiple Linear Regression](https://github.com/DevKansara97/CSE521-Big-Data-Analytics-course-work)** - ML fundamentals and data analysis
-- **[Randomized Route Optimization](https://github.com/DevKansara97/Randomized-Route-Optimization-in-Decentralized-Traffic-Networks)** - A* algorithm for traffic routing (CSE400)
-- **[Artificial Intelligence](https://github.com/DevKansara97/CSE518_Artificial_Intelligence)** - AI coursework and experiments
-- **[Linear Regression Analysis: Head Size vs Brain Weight](https://github.com/DevKansara97/Linear-Regression-Analysis-Head-Size-vs.-Brain-Weight)** - Statistical analysis with scikit-learn
-
 ### Computer Science Core
 - **[Data Structures - Java](https://github.com/DevKansara97/Data_Structures_Java)** - Comprehensive data structures implementations (CSE205)
 - **[Design and Analysis of Algorithms](https://github.com/DevKansara97/Design-and-Analysis-of-Algorithms)** - Sorting, dynamic programming, graph algorithms, and more
-- **[Computer Networks - CSE405](https://github.com/DevKansara97/Computer-Networks-CSE405)** - Network protocols and lab experiments (C)
 - **[Five-Stage Non-Pipelined RISC Processor](https://github.com/DevKansara97/Five-cycle-non-pipelined-RISC-processor-using-Verilog-HDL)** - 25-bit RISC processor in Verilog HDL
 
 ### Blockchain & Web3
 - **[Blockchain-Based Real-World Asset Tokenization](https://github.com/DevKansara97/Design-and-Implementation-of-a-Blockchain-Based-Real-World-Asset-Tokenization-System-Using-Ethereum-)** - DApp for tokenizing real-world assets using Ethereum smart contracts (Solidity, JavaScript)
   
+### Machine Learning & Data Science
+- **[BigData Analytics - Multiple Linear Regression](https://github.com/DevKansara97/CSE521-Big-Data-Analytics-course-work)** - ML fundamentals and data analysis
+- **[Randomized Route Optimization](https://github.com/DevKansara97/Randomized-Route-Optimization-in-Decentralized-Traffic-Networks)** - A* algorithm for traffic routing (CSE400)
+- **[Artificial Intelligence](https://github.com/DevKansara97/CSE518_Artificial_Intelligence)** - AI coursework and experiments
+
 ### Full-Stack Development
 - **[Software Engineering Project](https://github.com/DevKansara97/SoftwareEngineering_Project)** - Course project
 - **[DevKansara Portfolio](https://dev-kansara.web.app)** - Personal portfolio showcasing my work (TypeScript)
 - **[Urjit AI Nexus](https://github.com/DevKansara97/urjit-ai-nexus)** - AI-powered application
 
-### Other Practice Projects
-- **[QR Code Generator](https://github.com/DevKansara97/QR-code-generator)** - HTML-based utility
-- **[WMC2025 Programming Club](https://github.com/DevKansara97/WMC2025_ProgrammingClub)** - Community initiative
+## 📊 GitHub Stats
 
-## 🎓 Areas of Interest:
-- Network Science
-- Data Structures and Algorithms
-- Machine Learning & Data Science
-- System Architecture & Design
-- Full-Stack Web Development
-- Hardware Design (Verilog, Digital Systems)
+<!-- <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevKansara97&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKansara97&layout=compact&theme=github_dark&hide_border=true" />
+</p> -->
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevKansara97&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DevKansara97&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevKansara97&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=DevKansara97&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DevKansara97&theme=github-dark&hide_border=true" />
+</p>
 
 <!-- Proudly created with enhanced content -->
