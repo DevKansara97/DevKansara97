@@ -4,7 +4,7 @@ I'm a Computer Science Engineering undergraduate at Ahmedabad University who enj
 My primary interests lie in Distributed Systems, Data Mining, LLM Engineering. I enjoy working on problems that require a combination of mathematical reasoning, pen-paper thinking and software engineering. I also enjoy teaching and academic research.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devkansara97) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devkansara10)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DevKansara97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devkansara97) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Dev_Kansara97/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devkansara10)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DevKansara97)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-%23DC143C.svg?style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -13,27 +13,32 @@ My primary interests lie in Distributed Systems, Data Mining, LLM Engineering. I
 
 ## 🚀 Featured Projects:
 
+### Systems and Distributed Computing
+- **[Dynamo-Lite-Distributed-Systems](https://github.com/DevKansara97/Dynamo-Lite-Distributed-Systems)** - Fault-tolerant key-value store inspired by Amazon's Dynamo paper, built with **raw TCP sockets and no frameworks**, and deployed across a real 3-node LAN cluster.
+- **[DAMASCUS - Microservices Stress-Testing Platform](https://github.com/drumilbhati/damascus)** - Control platform that ingests distributed traces (Jaeger) to build service-dependency graphs and compute criticality scores for microservices under test. *Team of 4.* **My contribution:** rate-limited concurrent worker pool in Go for controlled stress traffic, and a Prometheus wrapper polling RED metrics (rate, errors, latency) in real time
+
+### Scanify: Expiry-Date Capture & Audit Automation *(JustDogs)*
+Translated expiry-tracking needs across **32 inventories (thousands of products each)** into a scalable system workflow, with barcode detection, OCR extraction and background jobs. (Private repo)
+
+### Machine Learning & Data Science
+- **[Randomized Route Optimization](https://github.com/DevKansara97/Randomized-Route-Optimization-in-Decentralized-Traffic-Networks)** - A* algorithm for traffic routing (CSE400)
+- **[Artificial Intelligence](https://github.com/DevKansara97/CSE518_Artificial_Intelligence)** - AI coursework and experiments
+
+### Full-Stack Development
+- **[DevKansara Portfolio](https://dev-kansara.web.app)** - Personal portfolio showcasing my work (TypeScript)
+- **[Urjit AI Nexus](https://github.com/DevKansara97/urjit-ai-nexus)** - AI-powered application
+
 ### Computer Science Core
 - **[Data Structures - Java](https://github.com/DevKansara97/Data_Structures_Java)** - Comprehensive data structures implementations (CSE205)
 - **[Design and Analysis of Algorithms](https://github.com/DevKansara97/Design-and-Analysis-of-Algorithms)** - Sorting, dynamic programming, graph algorithms, and more
 - **[Five-Stage Non-Pipelined RISC Processor](https://github.com/DevKansara97/Five-cycle-non-pipelined-RISC-processor-using-Verilog-HDL)** - 25-bit RISC processor in Verilog HDL
 
-### Systems and Distributed Computing
-- **[Dynamo-Lite-Distributed-Systems](https://github.com/DevKansara97/Dynamo-Lite-Distributed-Systems)** - Built with raw TCP sockets, core Java
-- **[DAMASCUS - Microservices Stress-Testing Platform](https://github.com/drumilbhati/damascus)** - Autonomous chaos-testing and capacity-profiling control platform.
+## 🏆 Achievements
 
-### Blockchain & Web3
-- **[Blockchain-Based Real-World Asset Tokenization](https://github.com/DevKansara97/Design-and-Implementation-of-a-Blockchain-Based-Real-World-Asset-Tokenization-System-Using-Ethereum-)** - DApp for tokenizing real-world assets using Ethereum smart contracts (Solidity, JavaScript)
-  
-### Machine Learning & Data Science
-- **[BigData Analytics - Multiple Linear Regression](https://github.com/DevKansara97/CSE521-Big-Data-Analytics-course-work)** - ML fundamentals and data analysis
-- **[Randomized Route Optimization](https://github.com/DevKansara97/Randomized-Route-Optimization-in-Decentralized-Traffic-Networks)** - A* algorithm for traffic routing (CSE400)
-- **[Artificial Intelligence](https://github.com/DevKansara97/CSE518_Artificial_Intelligence)** - AI coursework and experiments
-
-### Full-Stack Development
-- **[Software Engineering Project](https://github.com/DevKansara97/SoftwareEngineering_Project)** - Course project
-- **[DevKansara Portfolio](https://dev-kansara.web.app)** - Personal portfolio showcasing my work (TypeScript)
-- **[Urjit AI Nexus](https://github.com/DevKansara97/urjit-ai-nexus)** - AI-powered application
+- ACPC Rank 168 · JEE Advanced qualified
+- 500+ problems solved on LeetCode (max rating 1681)
+- TFWS recipient + Ahmedabad University Merit Scholarship
+- Teaching assistant for an Data Structures and Algorithms course
 
 ## 📊 GitHub Stats
 
