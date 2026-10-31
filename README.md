@@ -18,6 +18,10 @@ My primary interests lie in Distributed Systems, Data Mining, LLM Engineering. I
 - **[Design and Analysis of Algorithms](https://github.com/DevKansara97/Design-and-Analysis-of-Algorithms)** - Sorting, dynamic programming, graph algorithms, and more
 - **[Five-Stage Non-Pipelined RISC Processor](https://github.com/DevKansara97/Five-cycle-non-pipelined-RISC-processor-using-Verilog-HDL)** - 25-bit RISC processor in Verilog HDL
 
+### Systems and Distributed Computing
+- **[Dynamo-Lite-Distributed-Systems](https://github.com/DevKansara97/Dynamo-Lite-Distributed-Systems)** - Built with raw TCP sockets, core Java
+- **[DAMASCUS - Microservices Stress-Testing Platform](https://github.com/drumilbhati/damascus)** - Autonomous chaos-testing and capacity-profiling control platform.
+
 ### Blockchain & Web3
 - **[Blockchain-Based Real-World Asset Tokenization](https://github.com/DevKansara97/Design-and-Implementation-of-a-Blockchain-Based-Real-World-Asset-Tokenization-System-Using-Ethereum-)** - DApp for tokenizing real-world assets using Ethereum smart contracts (Solidity, JavaScript)
   
